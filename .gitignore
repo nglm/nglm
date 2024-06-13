@@ -1,0 +1,10 @@
+*__pycache__
+*_cache
+*.vscode
+# no ipynb checkpoints
+*.ipynb_checkpoints*
+*README.pdf
+!README.md
+
+
+
