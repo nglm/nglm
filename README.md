@@ -10,7 +10,7 @@ On my GitHub profile, you can see most of **my research and teaching projects**.
 
 My main PhD project aims at **clustering time-series data in the context of ensemble weather prediction**. From there, I became more and more interested in research questions related to clustering in general, notably **taking into account the uncertainty on the number of clusters** ([PersiGraph](https://github.com/nglm/persigraph) and [GraphApp](https://github.com/nglm/graphapp)), **cluster validity indices** (**[PyCVI](https://github.com/nglm/pycvi)** and [ClusterExp](https://github.com/nglm/clusterexp)) as well as the impact of different distance metrics on the training and evaluation of machine learning models.
 
-While doing an internships at the Nansen Center in Bergen (Norway) in 2019, I also carried out research on machine learning applied to ocean inverse problems, using **Self-Organising Maps and Hidden Markov Models** to infer subsurface data from surface data ([SubMAPP](https://github.com/nglm/submapp)).
+While doing an internship at the Nansen Center in Bergen (Norway) in 2019, I also carried out research on machine learning applied to ocean inverse problems, using **Self-Organising Maps and Hidden Markov Models** to infer subsurface data from surface data ([SubMAPP](https://github.com/nglm/submapp)).
 
 ### Teaching
 
